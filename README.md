@@ -5,6 +5,7 @@ completado por Thiago Gomes Ferreira (2021011082) que fez o Update e Gustavo Bar
 
 Primeiramente abra o terminal, em seguida siga os passos abaixo:
 
+# Inicializando o backend
 # 1. Entre na pasta do backend
 cd backend
 
@@ -20,8 +21,7 @@ npx prisma generate
 # 5. Inicialize o servidor
 npm run dev
 
-Frontend:
-
+# Inicializando o frontend
 # 1. Entre na pasta do frontend
 cd frontend
 

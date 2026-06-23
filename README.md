@@ -1,5 +1,4 @@
-# Projeto feito em sala e completado por Thiago Gomes Ferreira (2021011082) e Gustavo Barbosa Gonçalves (2024012987)
-# Thiago fez o Update e Gustavo o delete
+# Projeto feito em sala e completado por Thiago Gomes Ferreira (2021011082) e Gustavo Barbosa Gonçalves (2024012987). Thiago fez o Update e Gustavo o Delete.
 
 # Como inicializar o projeto:
 
